@@ -12,13 +12,14 @@ searchForm.addEventListener("submit", (e) => {
 });
 
 async function fetchAPI() {
-  const baseURL = `https://api.edamam.com/search?q=pizza&app_id=${APP_ID}&app_key=${APP_key}&to=50`;
+  const baseURL = `https://api.edamam.com/search?q=${searchQuery}&app_id=${APP_ID}&app_key=${APP_key}&to=50`;
   const response = await fetch(baseURL);
   const data = await response.json();
   generateHTML(data.hits);
   console.log(data);
 }
 function generateHTML(results) {
+    container.classList.remove('initial');
   let generatedHTML = "";
   results.map((result) => {
     generatedHTML += 
