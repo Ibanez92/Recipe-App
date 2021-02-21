@@ -3,10 +3,14 @@ Food Recipe App using Vanilla Javascript
 
 # Technology used
 HTML
+
 CSS
+
 vanilla Javascript
+
 Edamame Recipe search API (https://developer.edamam.com/)
+
 JS ES6
 
 # Demo
-![Recipe app demo](https://media.giphy.com/media/Y2qNurf7WTsZGGzanK/giphy.gif)
+![Recipe app demo](https://media.giphy.com/media/KBITdT51Pi2wgTpNW7/giphy.gif)
