@@ -1,5 +1,5 @@
 # Recipe-App
-Food Recipe App using Vanilla Javascript
+Food Recipe App using Vanilla Javascript, also can be used on mobile. Clicking on the view recipe button will take the user to the source website to find the recipe chosen.
 
 # Technology used
 HTML
@@ -14,3 +14,5 @@ JS ES6
 
 # Demo
 ![Recipe app demo](https://media.giphy.com/media/KBITdT51Pi2wgTpNW7/giphy.gif)
+
+![Recipe app demo](https://media.giphy.com/media/caWdOQgMPl0jpioXC0/giphy.gif)
