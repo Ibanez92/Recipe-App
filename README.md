@@ -14,7 +14,9 @@ JS ES6
 
 # Demo
 Desktop
+
 ![Recipe app demo](https://media.giphy.com/media/KBITdT51Pi2wgTpNW7/giphy.gif)
 
 Mobile
+
 ![Recipe app demo](https://media.giphy.com/media/caWdOQgMPl0jpioXC0/giphy.gif)
