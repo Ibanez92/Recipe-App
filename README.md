@@ -1,5 +1,5 @@
 # Recipe-App
-Food Recipe App using Vanilla Javascript, also can be used on mobile. Clicking on the view recipe button will take the user to the source website to find the recipe chosen.
+Food Recipe App uses Vanilla Javascript. It can be used on mobile or desktop. The user inputs any type of food and the Edamame Recipe Search API brings up the name of the Recipe, the Calories, the Diet Label, and the Health Label. Clicking on the view recipe button will take the user to the source website to find the ingredients of the recipe chosen
 
 # Technology used
 HTML
