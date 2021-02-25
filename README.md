@@ -19,4 +19,4 @@ Desktop
 
 Mobile
 
-![Recipe app demo](https://media.giphy.com/media/X2pBiOKIzKfEfnXPF8/giphy.gif)
+![Recipe mobile app demo](https://media.giphy.com/media/byB2uqEMFeUBuSLq71/giphy.gif)
