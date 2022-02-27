@@ -6,7 +6,7 @@ HTML
 
 CSS
 
-vanilla Javascript
+Javascript
 
 Edamame Recipe search API (https://developer.edamam.com/)
 
